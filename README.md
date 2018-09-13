@@ -14,7 +14,7 @@ As part of the initial hiring process, I was given an exercise, with source data
 ### Setup
 Setup was done on a windows machine running Linux inside of vagrant, so the directions may vary slightly depending on your own setup.
 
-git clone https://github.com/jessigrayson/infoscout_hw.git
+git clone https://github.com/jessigrayson/pandas-practice-infoscout-app.git
 cd infoscout_hw
 
 ##### Create virtual environment
